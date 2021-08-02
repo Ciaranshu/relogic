@@ -32,7 +32,9 @@ Please feel free to contact Chang Shu or Yusen Zhang for any question.
 The model is tested in Python 3.7, Pytorch 1.0.1 and Huggingface Transformers 3.2.0 (Later version may cause unexpected errors). 
 
 **Please make sure to use the previous version of BART model**
+
 bart-base: `https://huggingface.co/facebook/bart-base/tree/d7db7a74f47943f8488724cb52b03cd4dd82fab4`
+
 bart-large: `https://huggingface.co/facebook/bart-large/tree/2ee0f9b9079f8312f1a8fc76cd1de7166ae332ea`
 
 Since our hyper-parameters were tuned on the previous version of BART and Huggingface keeps updating the structure and parameters of the BART models, using the latest version of BART models may not be able to reproduce the results we reported in our paper.
