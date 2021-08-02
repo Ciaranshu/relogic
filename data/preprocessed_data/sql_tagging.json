@@ -1,0 +1,8 @@
+{
+  "O": 0,
+  "S-SELECT": 1,
+  "B-SELECT": 2,
+  "I-SELECT": 3,
+  "E-SELECT": 4,
+  "_X_": 5
+}

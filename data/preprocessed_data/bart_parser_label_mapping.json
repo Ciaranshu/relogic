@@ -1,0 +1,8 @@
+{
+  "keyword": ["<s>", "<pad>", "</s>", "select", "where", "group_by", "order_by",
+             "and", "limit_value", "limit", "desc", "having",
+             "intersect",  "except", "asc", "union", "_"],
+  "label_padding_token": "<pad>",
+  "label_eos_token": "</s>",
+  "label_bos_token": "<s>"
+}

@@ -1,0 +1,1400 @@
+What are the first names for all faculty professors, ordered by first name?
+Give the names and scores of wines made from white grapes.
+Find all 200 meter and 300 meter results of swimmers with nationality "Australia".
+Find the first name of students who are living in the Smith Hall.
+What are the different ids and stop durations of all the drivers whose stop lasted longer than the driver in the race with the id 841?
+What are the titles of all the Aerosmith albums?
+Find the name and country of origin for all artists who have release at least one song of resolution above 900.
+What is the name and building of the departments whose budget is more than the average budget?
+What are the names and ids of the different albums, and how many tracks are on each?
+What are the store names of drama workshop groups?
+What are the first and last name of the author who published the paper titled "Nameless, Painless"?
+Give the title of the prerequisite to the course International Finance.
+What are the different region names, ordered by labels?
+Which problems are reported by the staff with first name "Christop"? Show the descriptions of the problems.
+What are the ids of all trips that had a duration as long as the average trip duration in the zip code 94103?
+show the titles, and authors or editors for all books made after the year 1989.
+What is the name of the bank branch that has lent the greatest amount?
+Find the name and age of all males in order of their age.
+List the titles of books that are not published.
+What are the mission codes, fates, and names of the ships involved?
+What are the states with the most invoices?
+What are the invoice dates, order ids, and order details for all invoices?
+What are the ids of the students who registered course statistics by order of registration date?
+List the document type code for the document with the id 2.
+What are the cities no customers live in?
+What is the average rating for right-footed players and left-footed players?
+What is the maximum and minimum grade point of students who live in NYC?
+How many advisors are there?
+List the actual delivery date for all the orders with quantity 1
+What is the phone number of the performer Ashley?
+Find the code of city where most of students are living in.
+Show the names of people aged either 35 or 36.
+What is the id, forname and surname of the driver who had the first position in terms of laptime at least twice?
+Find the name and email for the users who have more than one follower.
+What are the names of teams that do no have match season record?
+What is the name of the movie that has been reviewed the most?
+What is the name of the browser that became compatible with the accelerator 'CProxy' after year 1998 ?
+What are the ids of the problems which are reported after 1978-06-26?
+What are the details of all products?
+What are the states with colleges that have enrollments less than the some other college?
+Give me a list of all the service names sorted alphabetically.
+How many clubs have total medals less than 10?
+What is the gender and name of the artist who sang the song with the smallest resolution?
+Find the max, average, and minimum gpa of all students in each department.
+Which employees do not destroy any document? Find their employee ids.
+what are the average and maximum attendances of all events?
+What is the location of the party with the most hosts?
+Show the names of journalists from "England" or "Wales".
+Show the accelerator names and supporting operating systems that are not compatible with the browser named 'Opera'.
+What is the total number of people who have no friends living in Austin?
+Show the ages of gymnasts in descending order of total points.
+List all department names ordered by their starting date.
+Show the name of the party that has the most delegates.
+Show the apartment type codes and apartment numbers in the buildings managed by "Kyle".
+Return the id of the staff whose Staff Department Assignment was earlier than that of any Clerical Staff.
+Count the number of all the calendar items.
+What are the names of all the customers in alphabetical order?
+When did Carole Bernhard first become a customer?
+Find the number of universities that have over a 20000 enrollment size for each affiliation type.
+Find the name of the products that are not using the most frequently-used max page size.
+What is the "active to date" of the latest contact channel used by "Tillman Ernser"?
+Find the states where have the colleges whose enrollments are less than the largest size.
+Find the name, class and rank of all captains.
+Give the color of the grape whose wine products have the highest average price?
+what are the top 3 highest support rates?
+List the names of companies by ascending number of sales.
+Find the "date became customers" of the customers whose ID is between 10 and 20.
+display the department name and number of employees in each of the department.
+How many students are affected by food related allergies?
+Which customer status code has least number of customers?
+What are characteristic names used at least twice across all products?
+What are the minimum and maximum crime rate of counties?
+Show the number of projects.
+List the titles of the papers whose authors are from the institution "Indiana University".
+How many universities have a campus fee greater than the average?
+What are the names of body builders in descending order of total scores?
+Which organisation hired the most number of research staff? List the organisation id, type and detail.
+Show the apartment type code that has the largest number of total rooms, together with the number of bathrooms and number of bedrooms.
+How many restaurant is the Sandwich type restaurant?
+Show the average, minimum, and maximum capacity for all the cinemas opened in year 2011 or later.
+Which documents have more than 1 draft copies? List document id and number of draft copies.
+Show all sport name and the number of students.
+Show the number of transactions with transaction type code "SALE" for different investors if it is larger than 0.
+Whah are the name of each industry and the number of companies in that industry?
+List all pilot names in ascending alphabetical order.
+How many clubs are there?
+Show the location code of the country "Canada".
+Which locations have 2 or more cinemas with capacity over 300?
+What are the distinct names and nationalities of the architects who have ever built a mill?
+How many camera lenses are not used in taking any photos?
+Count the number of devices.
+List the name of the shop with the latest open year.
+Sort the apartment numbers in ascending order of room count.
+What are the official names of cities that have population over 1500 or less than 500?
+Give me a list of names and years of races that had any driver whose forename is Lewis?
+List all media types.
+Show each location and the number of cinemas there.
+Which game type has most number of games?
+What is the document type name and the document type description and creation date for all the documents?
+What is the document type name for the document with name "How to read a book"?
+Give the number of students living in either HKG or CHI.
+Find the claims that led to more than two settlements or have the maximum claim value. For each of them, return the date the claim was made and the id of the claim.
+How long does student Linda Smith spend on the restaurant in total?
+What is all the information on the airport with the largest number of international passengers?
+Show the number of trains
+How many actors are there?
+What are the name, phone number and email address of the customer who made the largest number of orders?
+Sort all captain names by their ages from old to young.
+Find the name of amenities Smith Hall dorm have.
+What are the movie titles with the highest average rating and what are those ratings?
+How many different instruments does the musician with the last name "Heilo" use?
+What are the names of the aircraft that the least people are certified to fly?
+Count the number of documents.
+List the names of journalists in ascending order of years working.
+Which industries have both companies with headquarter in "USA" and companies with headquarter in "China"?
+List the authors of submissions in ascending order of scores.
+Show the name and phone of the customer without any mailshot.
+Give the average number of cities within markets that had a low market estimation larger than 10000?
+Show all allergy types.
+How many reviewers listed?
+What are the names of the clients who do not have any booking?
+What is the employee id of the head whose department has the least number of employees?
+Which orders have shipment after 2000-01-01? Give me the order ids.
+Show the status of the city that has hosted the greatest number of competitions.
+What are the names of courses with 1 credit?
+Count the number of products that were never ordered.
+List the name of browsers in descending order by market share.
+Count the number of stores the chain South has.
+What are the title and id of the film which has a rental rate of 0.99 and an inventory of below 3?
+Which customer had at least 2 policies but did not file any claims? List the customer details and id.
+Find the unit of measurement and product category code of product named "chervil".
+What are the names of storms that both affected two or more regions and affected a total of 10 or more cities?
+How many aircrafts are there?
+What are the names of the directors who made exactly one movie?
+How many cities are there in state "Colorado"?
+Show the ids and details of the investors who have at least two transactions with type code "SALE".
+Find the product names that are colored 'white' but do not have unit of measurement "Handful".
+Find the name of bank branches that provided some loans.
+What is the nickname of the employee named Janessa Sawayn?
+What are the names of body builders?
+What are the product id and product type of the cheapest product?
+Find the number of distinct currency codes used in drama workshop groups.
+List the distinct names of the instructors, ordered by name.
+How many customers do not have an account?
+Please show the most common reigns of wrestlers.
+Which apartments have type code "Flat"? Give me their apartment numbers.
+How many different card types are there?
+Find the cities which have exactly two airports.
+What are the names of all playlists that have more than 100 tracks?
+Show the names of journalists and the number of events they reported.
+Find the name of the department that offers the largest number of credits of all classes.
+What are the different ship flags, and how many ships have each?
+What is the id of the account with the most transactions?
+Give me ids for all the trip that took place in a zip code area with average mean temperature above 60.
+Return the total number of deaths and total damange in millions for storms that had a max speed greater than the average.
+What are the location and nickname of each school?
+Show the booking status code and the corresponding number of bookings.
+Give me the product type, name and price for all the products supplied by supplier id 3.
+What are the different budget type codes, and how many documents are there for each?
+List the order dates of all the bookings.
+Show the account id with most number of transactions.
+What are all the payment methods?
+What is the last date of the staff leaving the projects?
+What are the first names and ids for customers who have two or more accounts?
+Find the id and forenames of drivers who participated both the races with name Australian Grand Prix and the races with name Chinese Grand Prix?
+List the forenames of all distinct drivers in alphabetical order?
+Show name, address road, and city for all branches sorted by open year.
+Show all donor names.
+What are the types of competition that have most 5 competitions for that type?
+What are the ids and details for each project?
+For each party, return the name of the party and the number of delegates from that party.
+In which year are there festivals both inside the 'United States' and outside the 'United States'?
+Which clubs have one or more members whose advisor is "1121"?
+List the name of ships whose nationality is not "United States".
+What are the names and scores of all wines?
+Find the highest rank of all reviews.
+What is the party of the youngest people?
+What are the names of all songs produced by the artist with the first name "Marianne"?
+How many students exist?
+Show the description for role name "Proof Reader".
+What are the first name and last name of the players whose death record is empty?
+Find the first name of students not enrolled in any course.
+Show the home city with the most number of drivers.
+What is all the information regarding employees who are managers?
+Find the total amount of loans offered by each bank branch.
+Find the id of courses which are registered or attended by student whose id is 121?
+Show the people that have been governor the most times.
+Count the number of statements.
+What is maximum group equity shareholding of the companies?
+Find the total number of rooms in the apartments that have facility code "Gym".
+What are the names of the stations that are located in Palo Alto but have never been the ending point of the trips
+Please show the different statuses of cities and the average population of cities with each status.
+Show names of pilots that have more than one record.
+Which year has the most degrees conferred?
+Find the first and last name of students who are not in the largest major.
+Show all official native languages that contain the word "English".
+What are the names of organizations that contain the word "Party"?
+List the research staff details, and order in ascending order.
+What is the city with the most number of flagship stores?
+For each account type, find the average account balance of customers with credit score lower than 50.
+What is the name of the person who is the oldest?
+Show the advisors of the students whose city of residence has city code "BAL".
+What are the official names of cities that have not hosted a farm competition?
+How many regions do we have?
+How many department stores does the store chain South have?
+What are the ids of documents with letter 's' in the name with any expense budgets.
+Return the number of routes with destination airport in Italy operated by the airline with name 'American Airlines'.
+How many days had both mean humidity above 50 and mean visibility above 8?
+Give the name of the student in the History department with the most credits.
+Which teachers teach the student named EVELINA BROMLEY? Give me the first and last name  of the teachers.
+Find the first name and office of the professor who is in the history department and has a Ph.D. degree.
+What are the names of all the teams in the basketball competition, sorted by all home scores in descending order?
+What are the names of the top 8 countries by total invoice size and what are those sizes?
+What is the name and detail of each staff member?
+What are the prices of products that have never gotten a complaint?
+Which room has the largest number of reservations?
+Sort the information about course authors and tutors in alphabetical order of the personal name.
+How many Bangladeshi artists are listed?
+What is the unit of measurement of product named "cumin"?
+What are the names of all the reviewers and movie names?
+What is the location name of the document "Robin CV"?
+Count the number of people of each sex who have a weight higher than 85.
+What is the average number of attendees for performances?
+What is the lowest salary in departments with average salary greater than the overall average.
+How many apartment bookings are there in total?
+For each grade 0 classroom, report the total number of students.
+How many different products are produced in each headquarter city?
+Find the average height and weight for all males (sex is M).
+List the full name (first and last name), and salary for those employees who earn below 6000.
+What are the three most costly procedures?
+Give the name of the highest paid instructor.
+How many phones are there?
+What is the name of the customer who has greatest total loan amount?
+List the writers who have written more than one book.
+Count the number of tourists who did not visit any place.
+Show the names of the drivers without a school bus.
+Show the headquarters that have at least two companies.
+What are the shipping agent names?
+Find the maximum and minimum durations of tracks in milliseconds.
+How many states that have some college students playing in the mid position but not in the goalie position.
+What is the average gradepoint for students with the last name Smith?
+What are the names of the colleges that are larger than at least one college in Florida?
+What are the names and cities of the branches that do not have any registered members?
+How many students does one classroom have?
+What are the names and prices of products that cost at least 180, sorted by price decreasing and name ascending?
+For how many clubs is "Tracy Kim" a member?
+For all directors who have directed more than one movie, what movies have they directed and what are their names?
+What are the statuses and average populations of each city?
+List the event venues and names that have the top 2 most number of people attended.
+How many faculty members does each building have? List the result with the name of the building.
+What is the birthday of the staff member with first name as Janessa and last name as Sawayn?
+List all customers’ names in the alphabetical order.
+Show the names of all the activities Mark Giuliano participates in.
+What are the last names of students in room 111?
+What are the details and ways to get to tourist attractions related to royal family?
+For each advisor, report the total number of students advised by him or her.
+Find the first and last name of all the teachers that teach EVELINA BROMLEY.
+What is the name of the song that was released most recently?
+Show all titles and their instructors' names for courses in 2008, in alphabetical order by title.
+What are the companies and investors that correspond to each entrepreneur?
+Group by ships by flag, and return number of ships that have each flag.
+What are all the section titles of the document named "David CV"?
+What are the names of all the songs whose album is under the label of "Universal Music Group"?
+Find the distinct unit prices for tracks.
+Find the name of the tryout players who are from the college with largest size.
+Return the description of the budget type that has the code ORG.
+What is the course description and number of credits for QM-261?
+Find the names of channels that are not owned by CCTV.
+What are the different pilot names who had piloted a flight in the country 'United States' or in the airport named 'Billund Airport'?
+Return the amount of the largest payment.
+List the personal names and family names of all the students in alphabetical order of family name.
+What is the tax source system code related to the benefits and overpayments? List the code and the benifit id, order by benifit id.
+Count the number of products with the 'hot' charactersitic.
+Which film actors (actresses) played a role in more than 30 films? List his or her first name and last name.
+What are the states or counties of the address of the stores with marketing region code "CA"?
+How many employees are there all together?
+What are the names of the workshop groups that have bookings with status code "stop"?
+Show all main industry for all companies.
+What are the file sizes and formats for all songs with a resolution lower than 800?
+Cound the number of artists who have not released an album.
+What is the average and total transaction amount?
+Return the claim start date for the claims whose claimed amount is no more than the average
+What are the unique types of player positions in the tryout?
+What are the maximum and minimum number of silver medals for all the clubs?
+For each dorm, how many amenities does it have?
+Return the staff ids and genders for any staff with the title Department Manager.
+What is the name of the artist with the greatest number of albums?
+Show the dates of performances with attending members whose roles are "Violin".
+list the name, job title of all people ordered by their names.
+Show the customer name, customer address city, date from, and date to for each customer address history.
+Which employee has showed up in most circulation history documents. List the employee's name and the number of drafts and copies.
+What are names for top three branches with most number of membership?
+For each director who directed more than one movie, what are the titles and dates of release for all those movies?
+What are the first and last name of the president of the club "Bootup Baltimore"?
+What are the chip model and screen mode of the phone with hardware model name "LG-P760"?
+What are the different majors?
+How many users are there?
+What are the descriptions of all the project outcomes?
+For each project id, how many tasks are there?
+Count the number of authors.
+Find the name and id of the good with the highest average rank.
+Find the total number of students in each department.
+What is the first name and last name employee helps the customer with first name Leonie?
+Give me a list of id and status of orders which belong to the customer named "Jeramie".
+What are the full names of faculty members who are a part of department 520?
+Show the name and service for all trains in order by time.
+Return the duration of the actor with the greatest age.
+What is all the information about employees with D or S in their first name, ordered by salary descending?
+Which contact channel has been used by the customer with name "Tillman Ernser"?
+List the authors who do not have submission to any workshop.
+How many students are advised by each rank of faculty? List the rank and the number of students.
+What are the IDs of customers who have "Diana" in part of their names?
+Count the number of trips that did not end in San Francisco city.
+Find the total savings balance of all accounts except the account with name ‘Brown’.
+What are the companies of entrepreneurs, ordered descending by amount of money requested?
+What is the name of the project that has a scientist assigned to it whose name contains 'Smith'?
+Find the names and publication dates of all catalogs that have catalog level number greater than 5.
+How much salary did the top 3 well-paid players get in 2001?
+What are the names of movies that get 3 star and 4 star?
+How many staff in total?
+How many rooms have a king bed?
+Find the forename and surname of drivers whose nationality is German?
+Give the different locations of tracks.
+What are the names of counties that do not contain any cities?
+What is the average price for each type of product?
+Give me a list of cities whose temperature in Mar is lower than that in July and which have also served as host cities?
+What is the title of the course that was offered at building Chandler during the fall semester in the year of 2010?
+Find the number of accounts with a savings balance that is higher than the average savings balance.
+Find the name of dorms that do not have amenity TV Lounge.
+How many credits is the course that the student with the last name Smithson took, and what is its description?
+What are the dates of transactions with at least 100 share count or amount bigger than 100?
+What is the name and city of the airport that the most routes end at?
+Find the number of students for each department.
+Return the text of tweets about the topic 'intern'.
+Find all the catalog publishers whose name contains "Murray"
+For each Orange county campus, report the number of degrees granted after 2000.
+what are the last names of the teachers who teach grade 5?
+Find the ids of orders which are shipped after 2000-01-01.
+For each payment method, return how many customers use it.
+How many songs were released for each format?
+Return all the apartment numbers sorted by the room count in ascending order.
+What are the names of all the subjects.
+How many airports' names have the word Interanation in them?
+Show id, first name and last name for all customers and the number of accounts.
+What is the average, maximum, and minimum for the number of hours spent training?
+How many accelerators are not compatible with the browsers listed ?
+What are the first names of all history professors who do not teach?
+Find the title of the course that is offered by more than one department.
+Find the max, average and min training hours of all players.
+For each zip code, how many times has the maximum wind speed reached 25 mph?
+Which category does the product named "flax" belong to?
+What are the names of procedures physician John Wen was trained in?
+Which attribute definitions have attribute value 0? Give me the attribute name and attribute ID.
+Show id, first and last names for all customers with at least two cards.
+Which city does has most number of customers?
+What are the different product names for products that have the 'warm' characteristic:?
+Which themes have had corresponding exhibitions that have had attendance both below 100 and above 500?
+How many distinct characteristic names does the product "cumin" have?
+Find the number of records of each policy type and its type code.
+How many lessons were taught by a staff member whose first name has the letter 'a' in it?
+Show the product type codes that have at least two products.
+What is the largest major?
+What is the date of the performance with the highest number of attendees?
+What is the placement date of the order whose invoice number is 10?
+What are the crime rates of counties sorted by number of offices ascending?
+Find the the grape whose white color grapes are used to produce wines with scores higher than 90.
+What is the maximum total amount paid by a customer? List the customer id and amount.
+List all information regarding the basketball match.
+What were all the salary values of players in 2010 and 2001?
+Sort the names of all counties in ascending order of population.
+Show student ids who are female and play football.
+How many hours do the students spend studying in each department?
+What is the average rating and resolution of all bangla songs?
+Find the buildings which have rooms with capacity more than 50.
+What is the latitude, longitude, city of the station from which the shortest trip started?
+Select the code of the product that is cheapest in each product category.
+get the details of employees who manage a department.
+Show the number of buildings with a height above the average or a number of floors above the average.
+What are the advisors
+How long is the total lesson time taught by staff with first name as Janessa and last name as Sawayn?
+How many races are there?
+Which assets have 2 parts and have less than 2 fault logs? List the asset id and detail.
+What is the famous release date of the artist with the oldest age?
+How many faculty members do we have for each rank and gender?
+What is the song with the most vocals?
+What is the team name and acc regular season score of the school that was founded for the longest time?
+Which song has the most vocals?
+How many employees does each role have? List role description, id and number of employees.
+Which program was launched most recently? Return the program name.
+What are the full names of all students
+Find the captain rank that has some captains in both Cutter and Armed schooner classes.
+Give the title of the course offered in Chandler during the Fall of 2010.
+What is the name of the ship that is commanded by the youngest captain?
+Return the themes of farm competitions, sorted by year ascending.
+Find the total credits of courses provided by different department.
+List the first and last name of the students who do not have any food type allergy.
+How many invoices were billed from Chicago, IL?
+Show the names of countries that have more than one roller coaster.
+How many classes exist for each school?
+Find the names of all the clubs that have at least a member from the city with city code "BAL".
+Give me a list of distinct product ids from orders placed between 1975-01-01 and 1976-01-01?
+Return the average total amount purchased and total value purchased for the supplier who supplies the greatest number of products.
+What is the title of the album that was released by the artist whose name has the phrase 'Led'?
+What are the names of scientists who are assigned to any project?
+What are the names of the scientists, and how many projects are each of them working on?
+Show the name, time, and service for all trains.
+What are the ids of the students who either registered or attended a course?
+Find the first name and age of students who are living in the dorms that do not have amenity TV Lounge.
+For each headquarter, what are the headquarter and how many companies are centered there?
+What are the email addresses of the drama workshop groups with address in Alaska state?
+List title of albums have the number of tracks greater than 10.
+How many distinct types of accounts are there?
+What is the average age of the female students with secretary votes in the spring election cycle?
+Show the names of customers who use Credit Card payment method and have more than 2 orders.
+Show cinema name, film title, date, and price for each record in schedule.
+Hom many musicians performed in the song "Flash"?
+List the vehicle flight number, date and pilot of all the flights, ordered by altitude.
+Show the names of products that are in at least two events.
+Count the number of schools that have had basketball matches.
+Find the name of physicians whose position title contains the word 'senior'.
+What are the order ids and customer ids for orders that have been Cancelled, sorted by their order dates?
+Find names of instructors with salary greater than that of some (at least one) instructor in the Biology department.
+Find the location and all games score of the school that has Clemson as its team name.
+Return the budget type codes, budget type descriptions and document ids for documents with expenses.
+Return the minimum, maximum, and average seating across all tracks.
+What is the maximum, minimum, and average amount of money outsanding for all customers?
+How many members are not living in Hartford?
+What are all the distinct participant ids who attended any events?
+What are the names, checking balances, and savings balances of customers, ordered by the total of checking and savings balances descending?
+Show the name, location, and number of platforms for all stations.
+Which team has the oldest player?
+Show all destinations and the number of flights to each destination.
+Show all company names and headquarters in the descending order of market value.
+Return the name and id of the furniture with the highest market rate.
+Show the names of editors and the theme of journals for which they serve on committees.
+Find the number of different departments in each school whose number of different departments is less than 5.
+How many kinds of different ratings are listed?
+What address was the document with id 4 mailed to?
+Return the names of entrepreneurs.
+What are all role codes?
+How many distinct locations of perpetrators are there?
+Show all distinct location names.
+Find names of all students who took some course and the course description.
+What types of ships have both ships that have Panama Flags and Malta flags?
+Find the organisation type description of the organisation detailed as 'quo'.
+Count the number of schools.
+Find the distinct majors of students who have treasurer votes.
+Show the names of mountains with height more than 5000 or prominence more than 1000.
+Count the number of financial transactions that correspond to each account id.
+What are the names of customers who have taken out more than one loan?
+Find the classroom that the most students use.
+How many languages are in these films?
+Find the average and oldest age for students with different sex.
+Show the flight number of flights with three lowest distances.
+what are the name of players who get more than the average points.
+What are the first names of the professors who do not play Canoeing or Kayaking as activities?
+What are the distinct salaries of all instructors who earned less than the maximum salary?
+Find products with max page size as "A4" and pages per minute color smaller than 5.
+Find the number of students whose city code is NYC and who have class senator votes in the spring election cycle.
+How many distinct governors are there?
+What are the names of products whose availability equals to 1?
+Which winery is the wine that has the highest score from?
+What is the total revenue of companies with revenue greater than the lowest revenue of any manufacturer in Austin?
+Find the id and location of circuits that belong to France or Belgium?
+Find the number of papers published by the institution "University of Pennsylvania".
+What are the names of representatives with more than 10000 votes in election?
+List all the contact channel codes that were used less than 5 times.
+Return the minimum, average and maximum distances traveled across all aircrafts.
+Show the draft pick numbers and draft classes of players whose positions are defenders.
+Show student ids who are on scholarship and have major 600.
+Find the names of patients who are not using the medication of Procrastin-X.
+What are the order details of the products with price higher than 2000?
+Show each gender code and the corresponding count of guests sorted by the count in descending order.
+Show different nominees and the number of musicals they have been nominated.
+What is the description of the club "Pen and Paper Gaming"?
+What is the cell phone number of the student whose address has the lowest monthly rental?
+How old is the youngest winning pilot and what is their name?
+display the employee number, name( first name and last name ), and salary for all employees who earn more than the average salary and who work in a department with any employee with a 'J' in their first name.
+Find the first name and age of the students who are playing both Football and Lacrosse.
+What is the title, credit value, and department name for courses with more than one prerequisite?
+How many distinct official languages are there among countries of players whose positions are defenders.
+Which campus has the most degrees conferred in all times?
+How many animal type allergies exist?
+Find the name of branches where have some members whose hometown is in Louisville, Kentucky and some in Hiram, Georgia.
+What is the average enrollment of schools?
+What are the names of the different banks that have provided loans?
+What are the ids of the courses that are registered or attended by the student whose id is 121?
+What are the names of students and their respective departments, ordered by number of credits from least to greatest?
+What is the first name of students enrolled in class ACCT-211 and got grade C?
+What is the total number of purchases for members with level 6?
+What are the names of cities in ascending alphabetical order?
+What is the effective date of the claim that has the largest amount of total settlement?
+Find the name of rooms booked by some customers whose first name contains ROY.
+What is the film title and inventory id of the item in the inventory which was rented most frequently?
+What are the names, locations, and years of opening for tracks with seating higher than average?
+How many different position for players are listed?
+What are the last names of customers without invoice totals exceeding 20?
+Find the maximum and minimum monthly rental for all student addresses.
+Find the delegates who are from counties with population below 100000.
+What is the first names of the professors from the history department who do not teach a class.
+How many dorms have amenities?
+What is the maximum elevation of all airports in the country of Iceland?
+List the number of invoices from the US, grouped by state.
+Return the address and email of the customer with the first name Linda.
+What are the names and locations of all enzymes listed?
+Find the state which has the most number of customers.
+Show origin and destination for flights with price higher than 300.
+Show invoice dates and order id and details for all invoices.
+Which restaurants have highest rating? List the restaurant name and its rating.
+Return the weight of the shortest person.
+What are the nations that have more than two ships?
+What is the average pages per minute color?
+What is the total amount of money loaned by banks in New York state?
+List the position of players and the average number of points of players of each position.
+What is the apartment number of the apartment with the most beds?
+What is the name of the race that occurred most recently?
+What are the names of different music genres?
+Give me a list of cities whose temperature in Feb is higher than that in Jun or cities that were once host cities?
+What are the different names of the product characteristics?
+How many cards does customer Art Turcotte have?
+Find the captain rank that has no captain in Third-rate ship of the line class.
+What are the account details with the largest value or with value having char '5' in it?
+What city is the headquarter of the store Blackville?
+Find all the payment dates for the payments with an amount larger than 10 and the payments handled by a staff person with the first name Elsa.
+What are the first and last names of the employee with the earliest date of birth?
+What are the id and name of the stations that have ever had more than 12 bikes available?
+What is the name of the highest rated wine?
+What is the name and price of the cheapest product?
+Who has friends that are younger than the average age?
+What is the title and id of the film that has the greatest number of copies in inventory?
+Find the name and budget of departments whose budgets are more than the average budget.
+What are the names of the chairs of festivals, sorted in ascending order of the year held?
+Show the type of school and the number of buses for each type.
+List the asset id, details, make and model for every asset.
+What are the first names of all students who live in the dorm with the most amenities?
+Show the location codes with at least 3 documents.
+What are the publishers who have published a book in both 1989 and 1990?
+What are the names of customers who have not taken a Mortage loan?
+Give the distinct department ids of departments in which a manager is in charge of 4 or more employees?
+Show the invoice number and the number of transactions for each invoice.
+Find the cities which were once a host city after 2010?
+For each branch id, what are the names of the branches that were registered after 2015?
+Find the ids of all distinct customers who made order after some orders that were Cancelled.
+Which players are from Indonesia?
+What are the login names of the students with family name "Ward"?
+What is the first name and last name of the student who have most number of sports?
+In which country does Roberto Almeida?
+What are the ids of all students who played video games and sports?
+Return the names of products in the category 'Spices'.
+List the first name of all employees with job code PROF ordered by their date of birth.
+What are the last names of the teachers who teach the student called GELL TAMI?
+Show the names of products and the number of events they are in.
+Find the branch names of banks in the New York state.
+Show all student IDs with the number of sports and total number of games played
+Give me the name and year of opening of the manufacturers that have either less than 10 factories or more than 10 shops.
+Show the names of customers who have at least 2 mailshots with outcome code 'Order'.
+List the duration, file size and format of songs whose genre is pop, ordered by title?
+Find the names of courses taught by the tutor who has personal name "Julio".
+What is the total amount of moeny paid by the customer Carole Bernhard?
+What are the names of the courses taught by the tutor whose personal name is "Julio"?
+How many locations are listed in the database?
+What is the year in which most ships were built?
+Find the average age of the students who have allergies with food and animal types.
+Show me the distinct payment method codes from the invoice record.
+List the information of all instructors ordered by their salary in ascending order.
+What are the names of the pilots that have not won any matches in Australia?
+What is the description of the color used by least products?
+What is the total credit does each department offer?
+Show the minimum, maximum, average price for all products.
+What are the details of the project that is producing both patents and papers as outcomes?
+How many different types of sports do we offer?
+List the distinct ranges of the mountains with the top 3 prominence.
+Show publishers with a book published in 1989 and a book in 1990.
+Count the number of different software platforms.
+Find the name of department has the highest amount of students?
+What are the distinct ages of the heads who are acting?
+What is the minimum, mean, and maximum age across all students?
+What are the names of products that are not 'white' in color and are not measured by the unit 'Handful'?
+What is the name of the district with the most residents?
+Which programs' origins are not "Beijing"? Give me the program names.
+Which apartments have bookings with both status codes "Provisional" and "Confirmed"? Give me the apartment numbers.
+What is the customer id of the customer who has the most orders?
+Show flight number, origin, destination of all flights in the alphabetical order of the departure cities.
+List name, dates active, and number of deaths for all storms with at least 1 death.
+Tell me the total quantity of products bought by the customer called "Rodrick Heaney".
+Find the id of the courses that do not have any prerequisite?
+What is the total number of deaths and damage for all storms with a max speed greater than the average?
+How many tourists did not make any visit?
+How many members have the black membership card?
+Which product has been ordered most number of times?
+Return the name of each physician and the number of patients he or she treats.
+What are the album titles for albums containing both 'Reggae' and 'Rock' genre tracks?
+List the names of editors who are older than 25.
+What is the department name and corresponding building for the department with the greatest budget?
+Which contact channel codes were used less than 5 times?
+List the medicine name and trade name which can both interact as 'inhibitor' and 'activitor' with enzymes.
+Find the id and name of customers whose address contains WY state and do not use credit card for payment.
+Show the average, minimum, and maximum ticket prices for exhibitions for all years before 2009.
+Return the characters and durations for each actor.
+List all the types of forms.
+Find the name of the nurse who has the largest number of appointments.
+List the names of all scientists sorted in alphabetical order.
+How many papers are "Atsushi Ohori" the author of?
+Count the number of different official languages corresponding to countries that players who play Defender are from.
+Return the city with the customer type code "Good Credit Rating" that had the fewest customers.
+What is the document status description of the document with id 1?
+What are the name, latitude, and city of the station with the lowest latitude?
+Find the name of customers who did not pay with Cash.
+Find the name of the teacher who teaches the largest number of students.
+What is the type of allergy Cat?
+Show the locations that have at least two performances.
+What is the most common company type, and how many are there?
+display the full name (first and last name ) of employee with ID and name of the country presently where (s)he is working.
+What are the name and id of the team with the most victories in 2008 postseason?
+Show the positions of the players from the team with name "Ryley Goldner".
+Show all transaction ids with transaction code 'PUR'.
+Find the name of the customers who have at most two orders.
+Show the product type codes that have both products with price higher than 4500 and products with price lower than 3000.
+For each id of a driver who participated in at most 30 races, how many races did they participate in?
+Which activity has the most faculty members participating in? Find the activity name.
+What are the different nationalities of pilots? Show each nationality and the number of pilots of each nationality.
+Find the number of students who is older than 20 in each dorm.
+Show storm name with at least two regions and 10 cities affected.
+What procedures cost less than 5000 and have John Wen as a trained physician?
+What are the famous titles of artists who do not have any volumes?
+What is the 3 most common cloud cover rates in the region of zip code 94107?
+What is the name of the shop that has the most different kinds of devices in stock?
+List the first names of people in alphabetical order?
+Find the id and name of the most expensive base price room.
+What is the average total number of passengers of airports that are associated with aircraft "Robinson R-22"?
+What is the name and country of origin for each artist who has released a song with a resolution higher than 900?
+Find the name of instructor who is the advisor of the student who has the highest number of total credits.
+Show minimum and maximum amount of memberships for all branches opened in 2011 or located at city London.
+What are the different statement ids on accounts, and the number of accounts for each?
+Which store owns most items?
+List the state in the US with the most invoices.
+Count the number of different languages in these films.
+Which college have both players with position midfielder and players with position defender?
+Return the address of customer 10.
+What are the name and id of the team offering the lowest average salary?
+What are the ids of the students who registered for some courses but had the least number of courses for all students?
+Show all the activity names and the number of faculty involved in each activity.
+Show the status shared by cities with population bigger than 1500 and smaller than 500.
+Find the name of customers who have more than one loan.
+display all the information of the employees whose salary if within the range of smallest salary and 2500.
+Please show the software platforms of devices in descending order of the count.
+Which customer made the smallest amount of claim in one claim? Return the customer details.
+What is the count of states with college students playing in the mid position but not as goalies?
+What is the name of the department with the student that has the lowest GPA?
+What is the gender of the student Linda Smith?
+How many services has each resident requested? List the resident id, details, and the count in descending order of the count.
+What are the the lesson ids of all staff taught by Janessa Sawayn whose nickname has the letter s?
+Who is the founders of companies whose first letter is S?
+Show the ids for projects with at least 2 documents.
+What is the name of the student who has the highest total credits in the History department.
+List the names of wrestlers in descending order of days held.
+List the names and phone numbers of all the distinct suppliers who supply red jeans.
+What are the names of all people, ordered by their date of birth?
+What is the song in the volume with the maximum weeks on top?
+Show the park of the roller coaster with the highest speed.
+What are the names, address roads, and cities of the branches ordered by opening year?
+Return the name of the heaviest entrepreneur.
+Show all calendar dates and day Numbers.
+Show the party and the number of drivers in each party.
+Find the code of the location with the largest number of documents.
+Which vocal type did the musician with last name "Heilo" played in the song with title "Der Kapitan"?
+How many courses that do not have prerequisite?
+What are the names and job titles of every person ordered alphabetically by name?
+What are the names of customers with accounts, and what are the total savings balances for each?
+Return the dates of ceremony corresponding to music festivals that had the category "Best Song" and result "Awarded".
+What is the customer first, last name and id with least number of accounts.
+Show the id of each employee and the number of document destruction authorised by that employee.
+How many cities have a stadium that was opened before the year of 2006?
+Find the average age of members of the club "Hopkins Student Enterprises".
+What are the ids and names of the web accelerators that are compatible with two or more browsers?
+What are the names of customers with checking balances lower than the average checking balance?
+Show the location name for document "Robin CV".
+What is the first name of each student enrolled in class ACCT-211?
+What cities do students live in?
+Find the average hours of all projects.
+List the distinct police forces of counties whose location is not on east side.
+Select the name and price of the cheapest product.
+Return the issue dates of volumes that are by the artist named Gorgoroth.
+How many airports are there per country? Order the countries by decreasing number of airports.
+How many exhibitions have a attendance more than 100 or have a ticket price below 10?
+Find the number of matches in different competitions.
+Return the address of store 1.
+Find the ids of reviewers who didn't only give 4 star.
+Return the minimum and maximum crime rates across all counties.
+Return the founded year for the school with the largest enrollment.
+What are the names of all the different reviewers who rates Gone with the Wind?
+What are the ids of the faculty members who do not advise any student.
+Which rooms cost between 120 and 150? Give me the room names.
+How many distinct students have been in detention?
+What are the faculty id and the number of students each faculty has?
+Which counties have two or more delegates? Give me the county names.
+What are the result description of the project whose detail is 'sint'?
+What is the nickname of staff with first name as Janessa and last name as Sawayn?
+Return the detail of the location named "UK Gallery".
+Show ids for all employees who don't have a certificate.
+Find the name of customers who do not have an saving account.
+What is the most common amenity in the dorms?
+Sort the gender codes in descending order of their corresponding number of guests. Return both the gender codes and counts.
+What are the id and zip code of the address with the highest monthly rental?
+Show all train names and times in stations in London in descending order by train time.
+On average, how old are the members in the club "Hopkins Student Enterprises"?
+Show budget type codes and the number of documents in each budget type.
+For each player, show the team and the location of school they belong to.
+What is the name of the department and office location for the professor with the last name of Heffington?
+Show all product names without an order.
+Show the distinct themes of journals.
+What is the id of the routes whose source and destination airports are in the United States?
+What are the grade number and classroom number of each class in the list?
+Show names of technicians in ascending order of quality rank of the machine they are assigned.
+List the codes of all courses that take place in room KLR209.
+In 2014, what are the id and rank of the team that has the largest average number of attendance?
+What are the ranks of captains that have no captain that are in the Third-rate ship of the line class?
+display all the information of those employees who did not have any job in the past.
+Find the number of routes that have destination John F Kennedy International Airport.
+What are the full names of faculties with sex M and who live in building NEB?
+Find the names of students who have taken any course in the fall semester of year 2003.
+For each project id, how many staff does it have? List them in increasing order.
+Which location names contain the word "film"?
+What are the title and issues of the books?
+What are the grapes and appelations of each wine?
+What are the names and countries of members?
+What is the name of the customer who has the most orders?
+How many female students live in Smith Hall?
+Count the number of female Professors we have.
+Find the name of the artist who made the album "Balls to the Wall".
+list in alphabetic order all course names and their instructors' names in year 2008.
+What is the document type code with most number of documents?
+Find the name and city of the airport which is the destination of the most number of routes.
+Find the last names of the members of the club "Bootup Baltimore".
+Retrieve the open and close dates of all the policies associated with the customer whose name contains "Diana"
+What are the countries of markets and their corresponding years of market estimation?
+What are the names of customers who have a savings balance lower than their checking balance, and what is the total of their checking and savings balances?
+Show me all the restaurants.
+Find the first names of teachers whose email address contains the word "man".
+What was the date of the earliest payment?
+List the names of pilots that do not have any record.
+Which county has the largest population? Give me the name of the county.
+Which school has the smallest amount of professors?
+Which countries have more than two members?
+display the department id and the total salary for those departments which contains at least two employees.
+Return the different nominees of musicals that have an award that is not the Tony Award.
+Find the purchase time, age and address of each member, and show the results in the order of purchase time.
+Show all dates of transactions whose type code is "SALE".
+What are the names of the schools with some players in the mid position but no goalies?
+What are the names for the 3 branches that have the most memberships?
+Show the industries shared by companies whose headquarters are "USA" and companies whose headquarters are "China".
+What are the students ids of students who have more than one allergy?
+Show the dates of transactions if the share count is bigger than 100 or the amount is bigger than 1000.
+Who has friends that are older than the average age? Print their friends and their ages as well
+Return the name of the mountain with the greatest height.
+List the types of competition and the number of competitions of each type.
+Count the number of bank branches.
+What is the average price across all products?
+Show the medicine names and trade names that cannot interact with the enzyme with product 'Heme'.
+What are the birth dates of employees living in Edmonton?
+List the company name and rank for all companies in the decreasing order of their sales.
+Count the number of cities in the state of Colorado.
+What is the customer last name, id and phone number with most number of orders?
+What is the starting year of the oldest technicians?
+For each product with some problems, list the count of problems and the product id.
+Return the apartment number with the largest number of bedrooms.
+Select the project names which are not assigned yet.
+Show all church names except for those that had a wedding in year 2015.
+What are the last names and ages of the students who are allergic to milk and cat?
+How many farms are there?
+Show the studios that have produced films with director "Nicholas Meyer" and "Walter Hill".
+How many clubs does "Linda Smith" belong to?
+For each delegate, find the names of the party they are part of.
+Return all detention summaries.
+Find the number of employees of each gender whose salary is lower than 50000.
+What are the payment dates for any payments that have an amount greater than 10 or were handled by a staff member with the first name Elsa?
+List the names of aircrafts and that did not win any match.
+List the builders of railways in ascending alphabetical order.
+What are the names of the albums that have more than 10 tracks?
+Which classrooms are used by grade 5?
+Show the names and total passengers for all train stations not in London.
+What is the average speed of roller coasters?
+What is the first and last name of the oldest employee?
+What is the name of the person who has the oldest average age for their friends, and what is that average age?
+Return the name of the wrestler who had the lowest number of days held.
+Find each target user's name and average trust score.
+What are the names of tracks that contain the the word you in them?
+What is the id and salary of the employee named Mark Young?
+What are the players who played for Columbus Crew, and how many years did each play for?
+What are the names of the managers for gas stations that are operated by the ExxonMobil company?
+What are the names of documents that do not have any sections?
+Find the number of rooms that do not have any reservation.
+Find the names of users who do not have a first notification of loss record.
+How many exhibitions has each artist had?
+How many climbers are from each country?
+What is the name of the department in the Building Mergenthaler?
+What are the names of wines made from red grapes and with prices above 50?
+What is the minimum and maximum number of bathrooms of all the apartments?
+Find the total revenue for each manufacturer.
+Return the issue dates of volumes by artists who are at most 23 years old?
+What are the id of each employee and the number of document destruction authorised by that employee?
+What is the name of the player with the largest number of votes?
+what is the last name and gender of all students who played both Call of Destiny and Works of Widenius?
+Count the number of addressed in the California district.
+What is the average price of wines produced in appelations in Sonoma County?
+What are the different types of vocals?
+What campus started in year 1956, has more than 200 full time students, and more than 400 students enrolled?
+What are the names of the tourist attractions that have parking or shopping as their feature details?
+For each grade, return the grade number, the number of classrooms used for the grade, and the total number of students enrolled in the grade.
+Show the most common apartment type code among apartments with more than 1 bathroom.
+How many female students (sex is F) whose age is below 25?
+What is the booking status code of the apartment with apartment number "Suite 634"?
+Show the account name and other account detail for all accounts by the customer with first name Meaghan and last name Keeling.
+Return the code of the card type that is most common.
+List all the salary values players received in 2010 and 2001.
+In zip code 94107, on which day neither Fog nor Rain was not observed?
+Find all the films longer than 100 minutes, or rated PG, except those who cost more than 200 for replacement. List the titles.
+What are the names of all people who do not have friends?
+What are the wines that have prices higher than 50 and made of Red color grapes?
+Find the texts of assessment notes for teachers with last name "Schuster".
+Find the id of the song that lasts the longest.
+What are the dates when customers with ids between 10 and 20 became customers?
+For each company, return the company name and the name of the building its office is located in.
+When is the last day any resident moved in?
+Show the locations shared by shops with open year later than 2012 and shops with open year before 2008.
+Find the name and active date of the customer that use email as the contact channel.
+What is the average longitude of stations that never had bike availability more than 10?
+What is the total share of transactions?
+Show the church names for the weddings of all people older than 30.
+Find the names of the students who are in the position of striker and got a yes tryout decision.
+Among all the claims, what is the settlement amount of the claim with the largest claim amount? List both the settlement amount and claim amount.
+What is the total revenue of each manufacturer?
+What is the maximum enrollment across all schools?
+What is the most frequent status of bookings?
+Show all locations which don't have a train station with at least 15 platforms.
+What is the last name and office of the professor from the history department?
+Return all the distinct secretary votes made in the fall election cycle.
+What is the name of the document which has been accessed the most times, as well as the number of times it has been accessed?
+What is the average snatch score of body builders?
+Find the city that hosted some events in the most recent year. What is the id of this city?
+Find the year which offers the largest number of courses.
+How many distinct publication dates are there in our record?
+What are the years, titles, and publishers for all books, ordered by year descending?
+List the number of invoices from Chicago, IL.
+Show the prices of the products named "Dining" or "Trading Policy".
+Count the total number of available services.
+How many accounts are there for each customer id?
+Count the number of wines produced at Robert Biale winery.
+Show the maximum and minimum share count of different transaction types.
+What is the title of the prerequisite class of International Finance course?
+Show names of technicians who are assigned to repair machines with value point more than 70.
+What is the year and semester with the most courses?
+Which student visited restaurant most often? List student's first name and last name.
+What is the name of the airline with the most routes?
+Please show the categories of the music festivals and the count.
+Find the name and position of the head of the department with the least employees.
+What are the case burdens of counties, ordered descending by population?
+What are the names of all tryout participants who are from the largest college?
+What are the names of entrepreneurs whose investor is not "Rachel Elnaugh"?
+Find the details of the shops that can be reached by walk.
+Find the name and access counts of all documents, in alphabetic order of the document name.
+Which delegates are from counties with population smaller than 100000?
+What is the zip code of staff with first name as Janessa and last name as Sawayn lived?
+Return the id and full name of the customer with the most accounts.
+What are the different states that have students trying out?
+Find all the songs performed by artist with last name "Heilo"
+What college has a student who successfully made the team in the role of a goalie?
+List the names of courses in alphabetical order?
+What are the names of teams from universities that have a below average enrollment?
+Count the number of captains that have each rank.
+What is the most common type of ships?
+Count the number of Professors who have office in building NEB.
+Find the id and color description of the products with at least 2 characteristics.
+Show the name and country for all people whose age is smaller than the average.
+What are the ids, types, and details of the organization with the most research staff?
+What are the full names and cities of employees who have the letter Z in their first names?
+Count the number of distinct instructors who have taught a course.
+How many different status codes of things are there?
+What campuses are in Los Angeles county?
+Return the name of the marketing region the store Rob Dinning is located in.
+What are the names and budgets of departments with budgets greater than the average?
+Are the customers holding coupons with amount 500 bad or good?
+What are the names of all clubs that do not have any players?
+Find all phones that have word 'Full' in their accreditation types. List the Hardware Model name and Company name.
+What is the list of distinct product names sorted by product id?
+Show me the classrooms grade 5 is using.
+Which apartments have bookings with status code "Confirmed"? Return their apartment numbers.
+Show the party that has the most people.
+List all countries and their number of airlines in the descending order of number of airlines.
+What are the highest and lowest prices of products, grouped by and alphabetically ordered by product type?
+What are the average, minimum, and max ages for each of the different majors?
+List the project details of the projects launched by the organisation
+Find the id and number of shops for the company that produces the most expensive furniture.
+Find the last name and age of the student who has allergy to both milk and cat.
+What is each customer's move in date, and the corresponding customer id and details?
+List all player names who have an overall rating higher than the average.
+What are the white percentages of cities, and the corresponding crime rates of the counties they correspond to?
+Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes'?
+List the name of the aircraft that has been named winning aircraft the most number of times.
+What are the maximum and minimum age of students with major 600?
+Give me the theme and location of each party.
+Which campus has the most faculties in year 2003?
+find the name of people whose height is lower than the average.
+Count the number of artists.
+What are the names of all movies that were created after the most recent Steven Spielberg film?
+Find the first names and last names of the authors whose institution affiliation is "University of Oxford".
+What is the name, account type, and account balance corresponding to the customer with the highest credit score?
+What are the descriptions and names of the courses that have student enrollment bigger than 2?
+What is the title and credits of the course that is taught in the largest classroom (with the highest capacity)?
+Show the transaction type code that occurs the most frequently.
+What are the distinct positions of the players from a country whose capital is Dublin?
+find the ids of reviewers who did not give 4 star.
+Show details of all investors if they make any transaction with share count greater than 100.
+What is the party that has the largest number of representatives?
+How many professors are teaching class with code ACCT-211?
+What are the names of all instructors who have taught a course, as well as the corresponding course id?
+Which tourist attractions can we get to by bus? Tell me the names of the attractions.
+What are the names of the storms that affected both the regions of Afghanistan and Albania?
+How many airlines does Russia has?
+What are the id of all the files in mp3 format?
+What are the themes and locations of parties?
+Find the name of tracks which are in both Movies and music playlists.
+For all directors who directed more than one movie, return the titles of all movies directed by them, along with the director name. Sort by director name, then movie title.
+What is the total salary paid by team Boston Red Stockings in 2010?
+What is draft detail of the document with id 7?
+Show all transaction types.
+Find the average age of female (sex is F) students who have secretary votes in the spring election cycle.
+What are the names of all games played by Linda Smith?
+Find the personal names of students not enrolled in any course.
+What is the total access count of documents that are of the most common document type?
+Which project made the most number of outcomes? List the project details and the project id.
+What is the average latitude and longitude of stations located in San Jose city?
+Show the locations of schools that have more than 1 player.
+How many students who are female are allergic to milk or eggs?
+How many gas companies are there?
+Who belong to the institution "University of Oxford"? Show the first names and last names.
+List the distinct positions of pilots older than 30.
+Find the last name of the author with first name "Amal".
+Find the number of voting records in total.
+What are the name and description for location code x?
+What is the count of the songs that last approximately 4 minutes?
+What are the distinct unit prices of all tracks?
+Find the number of rooms with price higher than 120 for different decor.
+What are the average prices and cases of wines produced in the year of 2009 and made of Zinfandel grape?
+What are the ids of all the employees who authorize document destruction?
+what is the phone number of employees whose salary is in the range of 8000 and 12000?
+How many students have a food allergy?
+how many degrees were conferred between 1998 and 2002?
+Show the average share count of transactions each each investor, ordered by average share count.
+What are the names of actors ordered descending by the year in which their musical was awarded?
+Show all artist names with an average exhibition attendance over 200.
+What are the employee ids of the employees whose role name is "Human Resource" or "Manager"?
+What are the ids of documents with the type code CV that do not have expenses.
+Show the distinct venues of debates
+What is the maximum Online Mendelian Inheritance in Man (OMIM) value of the enzymes?
+Show the name and population of the country that has the highest roller coaster.
+How many degrees were conferred at San Jose State University in 2000?
+List the name of actors in ascending alphabetical order.
+What is the name of the institution the author "Katsuhiro Ueno" belongs to?
+Which events id does not have any participant with detail 'Kenyatta Kuhn'?
+Select the names and the prices of all the products in the store.
+How many regions do we have?
+Show the names of aircrafts that are associated with both an airport named "London Heathrow" and an airport named "London Gatwick"
+Show the carriers of devices in stock at more than one shop.
+Find the name of the customer who made an order most recently.
+What are the names and prices of all products in the store?
+What are the actual delivery dates of orders with quantity 1?
+How many book clubs are there?
+What are the name, id and the corresponding number of visits for each  tourist attraction?
+Find Alice's friends of friends.
+Show different carriers of phones together with the number of phones with each carrier.
+List the count and id of each product in all the orders.
+What are the names of all songs in English?
+What are the names of actors who have been in the musical titled The Phantom of the Opera?
+What are the different product names, and what is the sum of quantity ordered for each product?
+How many medicines are offered by each trade name?
+Show the product name and total order quantity for each product.
+Which institution does "Katsuhiro Ueno" belong to?
+What is the largest payment amount?
+Show the names of companies and of employees.
+What is the id of the files that are available in the format of mp4 and a resolution smaller than 1000?
+Find the number of routes with destination airports in Italy.
+What are the names of parties that have no members?
+Show gas station id, location, and manager_name for all gas stations ordered by open year.
+Give me the average and minimum price (in Euro) of the products.
+How many games were played in park "Columbia Park" in 1907?
+Find the title and score of the movie with the lowest rating among all movies directed by each director.
+Show all product sizes.
+Show ids for all students who have advisor 1121.
+List the grape, winery and year of the wines whose price is bigger than 100 ordered by year.
+What are the names of all directors who made one movie?
+What are the different police forces of counties that are not located in the East?
+What is the average latitude and longitude in San Jose?
+Find the titles of all movies not reviewed by Chris Jackson.
+List the physicians' employee ids together with their primary affiliation departments' ids.
+Find the name of the students and their department names sorted by their total credits in ascending order.
+For each director, how many reviews have they received?
+For each city, what is the highest latitude for its stations?
+find the event names that have more than 2 records.
+Find the names of furnitures whose prices are lower than the highest price.
+How many cinema do we have?
+What are the names of products with 'white' as their color description?
+find the program owners that have some programs in both morning and night time.
+Show locations and nicknames of schools.
+List the names of people that are not perpetrators.
+How many songs have 4 minute duration?
+Who are Bob's friends?
+What is average age of male for different job title?
+List in alphabetic order the names of all distinct instructors.
+What are the percentage of hispanics in cities with the black percentage higher than 10?
+Find the titles and studios of the films that are produced by some film studios that contained the word "Universal".
+Show the names of players and names of their coaches.
+Find the classrooms in which grade 4 is studying.
+What is the id of every song that has a resolution higher than that of a song with a rating below 8?
+Find the number of distinct projects.
+Give me the names of members whose address is in Harford or Waterbury.
+What is the maximum and mininum number of transit passengers for all airports?
+How many different statuses do cities have?
+For all the faults of different parts, what are all the decriptions of the skills required to fix them? List the name of the faults and the skill description.
+What is the id, genre, and name of the artist for every English song ordered by ascending rating?
+What are the details for the project whose research has been published?
+Show the premise type and address type code for all customer addresses.
+Give the class of races that is most common.
+What are the first names of all employees that are professors ordered by date of birth?
+What is zip code of customer with first name as Carole and last name as Bernhard?
+What are the names and locations of all tracks?
+What is the headquarter of the company with the largest sales?
+What are the course names, ordered by credits?
+What are the address and phone number of the buildings managed by "Brenden"?
+Find the name and component amount of the least popular furniture.
+Which club has the most female students as their members? Give me the name of the club.
+Return the colleges that have players who play the Midfielder position, as well as players who play the Defender position.
+Return the prices of wines produced before 2010.
+Which membership card has more than 5 members?
+Find the distinct locations that has a cinema.
+Show the different statuses and the numbers of roller coasters for each status.
+Give the different positions of players who play for the country with the capital Dublin.
+display the employee id and salary of all employees who report to Payam (first name).
+What are the names of all instructors who advise students in the math depart sorted by total credits of the student.
+What are names of patients who made an appointment?
+Count the number of storms in which at least 1 person died.
+Which part fault requires the most number of skills to fix? List part id and name.
+Find the names of customers whose name contains "Diana".
+What are the titles for courses with two prerequisites?
+Count the number of customers that have an email containing "gmail.com".
+Who are the nominees who have been nominated for both a Tony Award and a Drama Desk Award?
+Find the balance of the checking account belonging to an owner whose name contains 'ee'.
+Return the investors who have invested in two or more entrepreneurs.
+What is the maximum and minimum height of all players?
+What are the names of the three artists who have produced the most songs, and how many works did they produce?
+Which cities have higher temperature in Feb than in Jun or have once served as host cities?
+List the name of all different customers who have some loan sorted by their total loan amount.
+How many albums are there?
+Which department has the most professors with a Ph.D.?
+Which vocal type did the musician with first name "Solveig" played in the song with title "A Bar in Amsterdam"?
+Which player has the most all star game experiences? Give me the first name, last name and id of the player, as well as the number of times the player participated in all star game.
+What are the names of the cameras that have taken picture of the most mountains?
+What is the area of the appelation that produces the highest number of wines before the year of 2010?
+List all cities of addresses in alphabetical order.
+Find the prices of products which has never received a single complaint.
+Find the distinct first names of the students who have class senator votes.
+List names of all pilot aged 30 or younger in descending alphabetical order.
+Show the names of buildings except for those having an institution founded in 2003.
+What is the average rating of songs for each language?
+Find the names of the workshop groups where services with product name "film" are performed.
+What are the names of cities, as well as the names of the counties they correspond to?
+Which part has the least chargeable amount? List the part id and amount.
+Count the number of video games with Massively multiplayer online game type .
+What are the names of people in ascending order of height?
+What are the names of all campuses located at Chico?
+What is the last name of the staff who has handled the first ever complaint?
+List the states which have between 2 to 4 staffs living there.
+What are the department names, cities, and state provinces for each department?
+Show the organizer and name for churches that opened between 1830 and 1840.
+which pilot is in charge of the most number of flights?
+Count the number of distinct claim outcome codes.
+Find the last names of the students in third grade that are not taught by COVIN JEROME.
+Find the marketing region description of China?
+List the name of all tracks in the playlists of Movies.
+What are the songs in volumes with more than 1 week on top?
+How many states have smaller colleges than average?
+Find the number and time of the train that goes from Chennai to Guruvayur.
+Give the dates of creation for documents that have both budget type codes 'GV' and 'SF'.
+Show the most common location of performances.
+Show the location codes and the number of documents in each location.
+What are the official native languages that contain the string "English".
+Find the number of scientists who are not assigned to any project.
+Find the major that is studied by the largest number of students.
+Show all the distinct buildings that have faculty rooms.
+On which days more than one revisions were made on catalogs.
+Find the dates of assessment notes for students with first name "Fanny".
+When did the staff member Janessa Sawayn leave the company?
+What are the first name, last name, and gender of all the good customers? Order by their last name.
+List the name for storms and the number of affected regions for each storm.
+Which engineers have never visited to maintain the assets? List the engineer first name and last name.
+What is the sum of revenue from companies with headquarters in Austin?
+For each policy type, return its type code and its count in the record.
+How many medicines have the FDA approval status 'No' ?
+Return the number of accounts that the customer with the first name Art and last name Turcotte has.
+Which major has least number of students? List the major and the number of students.
+List the publisher of the publication with the highest price.
+how many schools exist in total?
+List the names and birthdays of the top five players in terms of potential.
+Find the count of universities whose campus fee is greater than the average campus fee.
+What are the names and distances for all airplanes?
+how many ships are there?
+What distinct accelerator names are compatible with the browswers that have market share higher than 15?
+What are the names of races held after 12:00:00 or before 09:00:00?
+Show the average price of hotels for different pet policy.
+What are the names of perpetrators whose country is not "China"?
+What are the full names and gradepoints for all enrollments?
+How many engineer visits are required at most for a single fault log? List the number and the log entry id.
+Which district has the largest population?
+What is the total salary expenses of team Boston Red Stockings in 2010?
+Which are the first and last names of the students taught by MARROTTE KIRK?
+How many students are attending English courses?
+List the first name and last name of customers have the amount of outstanding between 1000 and 3000.
+Find the names of schools that have some players in the mid position but not in the goalie position.
+What are the titles of all movies that have rating star is between 3 and 5?
+Show the title and director for all films.
+How many party events do we have?
+Show total hours per week and number of games played for student David Shieber.
+Return the sum of all payment amounts.
+What are the names of customers who do not have any policies?
+How many distinct delegates are from counties with population larger than 50000?
+What are the apartment number, start date, and end date of each apartment booking?
+What are the names of all tracks that are on the Movies playlist but not in the music playlist?
+List all the distinct stations from which a trip of duration below 100 started.
+For each station, find its latitude and the minimum duration of trips that ended at the station.
+what is id of students who registered some courses but the least number of courses in these students?
+Show all the distinct institution types.
+Show all game names played by at least 1000 hours.
+What are the albums produced in year 2010?
+What are the register ids of electoral registries that have the cross reference source system code 'Electoral' or 'Tax'?
+Find the total number of courses offered.
+What are the personal names and family names of the students? Sort the result in alphabetical order of the family name.
+Who has a friend that is from new york city?
+Find the name and position of physicians who prescribe some medication whose brand is X?
+What are the numbers of wines for different grapes?
+What is the name of the highest mountain?
+How many distinct teams are involved in match seasons?
+List the project details of the projects which did not hire any staff for a researcher role.
+Which manufacturer has the most number of shops? List its name and year of opening.
+What are the names of courses without prerequisites?
+Hom many albums does the artist "Metallica" have?
+How many documents were shipped by USPS?
+Give me the the first and last name of the faculty who advises the most students.
+How many exhibition are there in year 2005 or after?
+What is the total grant amount of the organisations described as research?
+What are the other account details for the account with the name 338?
+What are the names and year of joining for artists that do not have the country "United States"?
+What is the maximum fastest lap speed in race named 'Monaco Grand Prix' in 2008 ?
+In which year did the least people enter hall of fame?
+Return the categories of music festivals that have the result "Awarded".
+Find all students taught by MARROTTE KIRK. Output first and last names of students.
+How many different services are provided by all stations?
+Return the names of all counties sorted by population in ascending order.
+Find the id and address of the shops whose score is below the average score.
+What are the names of storms that did not affect two or more regions?
+What are the distinct location names?
+Find the names of the chip models that are not used by any phone with full accreditation type.
+Count the number of different positions in the club "Bootup Baltimore".
+Which nations have both hosts of age above 45 and hosts of age below 35?
+List all region names in alphabetical order.
+Show names of shops and the carriers of devices they have in stock.
+What are the campuses that had between 600 and 1000 faculty members in 2004?
+Find all first-grade students who are NOT taught by OTHA MOYER. Report their first and last names.
+What are the names of the customers who have made two or less orders?
+What is the average price for wines not produced in Sonoma county?
+What are the start station's name and id for the one that had the most start trips in August?
+How many students does each advisor have?
+Return the number of music festivals of each category.
+Show names of actors in descending order of the year their musical is awarded.
+List the names of counties in descending order of population.
+For each grade 0 classroom, return the classroom number and the count of students.
+Find the name of the customers who use the most frequently used payment method.
+Find the white grape used to produce wines with scores above 90.
+What are the different card type codes, and how many different customers hold each type?
+Where does the staff member with the first name Elsa live?
+Return the maximum and minimum population among all counties.
+Find the names of customers who have used both the service "Close a policy" and the service "New policy application".
+What is the category and typical buying price  of the product with name "cumin"?
+Find the number of airports whose name contain the word 'International'.
+What are the names of buildings sorted in descending order of building height?
+Find the name and hours of project that has the most number of scientists.
+How many players are there?
+What are the statement ids, statement details, and account details, for all accounts?
+Please show the names and descriptions of aircrafts associated with airports that have a total number of passengers bigger than 10000000.
+What are the ids of all stations that have a latitude above 37.4 and have never had less than 7 bikes available?
+Find the id of the order whose shipment tracking number is "3452".
+Find the name of the product that has the smallest capacity.
+What is the total share (in percent) of all the channels owned by CCTV?
+What are the names of climbers and the corresponding heights of the mountains that they climb?
+When are the birthdays of customer who are classified as 'Good Customer' status?
+What are the different card type codes?
+For each station, return its longitude and the average duration of trips that started from the station.
+What are the countries that participated in both friendly and tournament type competitions?
+List the dates of games by the home team name in descending order.
+What are the census rankings of cities that do not have the status "Village"?
+Find the name of customers who have loans of both Mortgages and Auto.
+Find the name of the products that have the color description "red" and have the characteristic name "fast".
+List from which date and to which date these staff work: project staff of the project which hires the most staffs
+What is the number of artists for each gender?
+Find the average grade point of student whose last name is Smith.
+What are the ids of the students who registered for course 301 most recently?
+Find the last name of the first ever contact person of the organization with the highest UK Vat number.
+What are the names of the products that have a color description of 'red' and the 'fast' characteristic?
+What is the full name of each student who is not allergic to any type of food.
+How many customers does Steve Johnson support?
+What is minimum hours of the students playing in different position?
+Show the name, open date, and organizer for all churches.
+Which customer is associated with the latest policy?
+How many products were not included in any order?
+How many enzymes do not have any interactions?
+Find the full names of faculties who are members of department with department number 520.
+What are the tracks that Dean Peeters bought?
+What are the distinct names of customers who have purchased a keyboard?
+What are the names of all the circuits that are in the UK or Malaysia?
+What are the prices of wines produced before the year of 2010?
+What is the minimum, maximum, and average seating for all tracks.
+Tell me the distinct block codes where some rooms are available.
+Which teams had more than 3 eliminations?
+List the id of students who registered course statistics in the order of registration date.
+Find all the distinct visit dates.
+Which city is the address of the store named "FJA Filming" located in?
+How many customers have at least one order with status "Cancelled"?
+Find the names of the users whose number of followers is greater than that of the user named "Tyler Swift".
+Count the total number of roles listed.
+Sort all the distinct product names in alphabetical order.
+What are the total number of Domestic Passengers of airports that contain the word "London".
+What is the average age of all artists?
+Find the city and state of the bank branch named morningside.
+Return the total revenue of companies with headquarters in Tokyo or Taiwan.
+Show all the distinct districts for elections.
+What is the date of birth for the staff member named Janessa Sawayn?
+Find the id of songs that are available in mp4 format and have resolution lower than 1000.
+What are the ids, full names, and salaries for employees making more than average and who work in a department with employees who have the letter J in their first name?
+What is the number of airlines based in Russia?
+Find the titles of papers whose first author is affiliated with an institution in the country "Japan" and has last name "Ohori"?
+Show the tourist attractions visited by the tourist whose detail is 'Vincent'.
+Return the rank for which there are the fewest captains.
+Find the semester and year which has the least number of student taking any class.
+Show all the distinct product names with price higher than the average.
+Which university is in Los Angeles county and opened after 1950?
+What are the planned delivery date and actual delivery date for each booking?
+How many rooms have king beds? Report the number for each decor type.
+Show the colleges that have both authors with submission score larger than 90 and authors with submission score smaller than 80.
+Find the total amount claimed in the most recently created document.
+What are the phone numbers for each employee?
+What is the name of the department with the most credits?
+List the themes of parties in ascending order of number of hosts.
+What are the average price and score of wines for each appelation?
+What is the least popular kind of decor?
+What is the name of the department that has the largest number of students enrolled?
+How many countries do not have an roller coaster longer than 3000?
+On which day has it neither been foggy nor rained in the zip code of 94107?
+What is the first and last name of the professor in biology department?
+What are the names of the physicians who have 'senior' in their titles.
+What are the lengths and heights of roller coasters?
+How many customers do we have?
+Of all the claims, what was the earliest date when any claim was made?
+Find the names of departments that are located in Houston.
+Find the first names of professors who are teaching more than one class.
+Show the studios that have not produced films with director "Walter Hill".
+display job ID for those jobs that were done by two or more for more than 300 days.
+What are the investors that have invested in at least two entrepreneurs?
+What are the dates of the latest logon of the students with family name "Jaskolski" or "Langosh"?
+What is the location of the perpetrator with the largest kills.
+What are the names of all the video games and their types in alphabetical order?
+What products are sold at the store named Miramichi?
+What are the ids and full names of customers who hold two or more cards?
+Show the names of customers who have both an order in completed status and an order in part status.
+Find the emails of the user named "Mary".
+Find the physician who prescribed the highest dose. What is his or her name?
+For each position, what is the maximum number of  hours for students who spent more than 1000 hours training?
+What are the different types of video games?
+Report the first name and last name of all the teachers.
+Count the number of students who have advisors.
+What are the names of the amenities that Smith Hall has?
+Return the name, rate, check in and check out date for the room with the highest rate.
+What are the details of the shops that can be accessed by walk?
+What are first and last names of players participating in all star game in 1998?
+What is the last name of the musicians who has played back position the most?
+Find the name and age of the person who is a friend of Dan or Alice.
+What is the total and maximum duration of trips with bike id 636?
+Show the company name and the main industry for all companies whose headquarters are not from USA.
+What are the distinct registration dates and the election cycles?
+What is the name of the customer who has the most policies listed?
+What is the full name and id of the customer who has the lowest total amount of payment?
+Show statement id, statement detail, account detail for accounts.
+What are the speeds of the longest roller coaster?
+Find the id and last name of the student that has the most behavior incidents?
+What are the code and description of the least frequent detention type ?
+List the names of all the physicians who prescribe Thesisin as medication.
+List the id of students who registered some courses and the number of their registered courses?
+What is Astrid Gruber's email and phone number?
+Find the names of all procedures which cost more than 1000 but which physician John Wen was not trained in?
+What are the ids of all reviewers who have not given 4 stars at least once?
+How many projects are there?
+How many different kinds of lens brands are there?
+What is the age of the doctor named Zach?
+What are the names of all aircrafts that have won a match at least twice?
+Give the phone and postal code corresponding to the address '1031 Daugavpils Parkway'.
+Find the total number of scientists.
+What is the most popular payment method?
+Show the nicknames of schools that are not in division 1.
+find the number of different programs that are broadcast during night time.
+How many classes does the professor whose last name is Graztevski teach?
+Find the oldest log id and its corresponding problem id.
+What is the color description of the product with name "catnip"?
+How many transaction does each account have? Show the number and account id.
+Return the name of the artist who has the latest join year.
+List the names, phone numbers, and emails of all customers sorted by their dates of becoming customers.
+What are the names of the technicians that are assigned to repair machines with more point values than 70?
+What are the names of the clubs that have players in the position of "Right Wing"?
+Show student ids for all male students.
+What is the average number of working horses of farms with more than 5000 total number of horses?
+What are the room name and base price of the room with the lowest base price?
+Find the names of the trains that do not pass any station located in London.
+What are the public schools and what are their locations?
+Return the different classes of races.
+Show the apartment numbers, start dates, and end dates of all the apartment bookings.
+How many students are affected by each allergy type?
+What are the different affiliations, and how many schools with each have an enrollment size of above 20000?
+List the name of products in ascending order of price.
+What is the characteristic name used by most number of the products?
+What are the customer name and date of the orders whose status is "Delivered".
+Find the product names whose average product price is below 1000000.
+How many items in inventory does store 1 have?
+What are the names of musicals who have no actors?
+Find the total and average amount of settlements.
+What is the average capacity of the stadiums that were opened in year 2005?
+What is the name of the customer who has made the largest amount of claim in a single claim?
+what is the address of history department?
+How many courses are offered?
+Sort the company names in descending order of the company's market value.
+What are the names of all directors who have made one movie except for the director named NULL?
+List the ids of the problems from the product "voluptatem" that are reported after 1995?
+How many different roles are there in the club "Bootup Baltimore"?
+What is the last name of the author that has published the most papers?
+Find the official names of cities with population bigger than 1500 or smaller than 500.
+List the name of all rooms sorted by their prices.
+What is the number of technicians?
+What is the id for the employee called Ebba?
+Show the names of phones and the districts of markets they are on, in ascending order of the ranking of the market.
+what is the GDP of the city with the largest population.
+What are the name of rooms that cost more than the average.
+Which problem log was created most recently? Give me the log id.
+Find how many school locations have the word 'NY'.
+Return the full name of the staff who provided a customer with the first name April and the last name Burns with a film rental.
+What are the names of customers who have purchased both products Latte and Americano?
+What are the names of the countries and average invoice size of the top countries by size?
+Return the names of the gymnasts.
+Find the name of the campuses opened before 1800.
+Which room has the highest base price?
+Which allergy type is the least common?
+How many medicines were not approved by the FDA?
+What are the headquarters with at least two companies in the banking industry?
+What is the description of the product category with the code 'Spices'?
+Find the name and flag of ships that are not steered by any captain with Midshipman rank.
+What are the average profits of companies?
+What are the bed type and name of all the rooms with traditional decor?
+Show the investors shared by entrepreneurs that requested more than 140000 and entrepreneurs that requested less than 120000.
+Find the distinct details of invoices which are created before 1989-09-03 or after 2007-12-25.
+What is maximum, minimum and average amount of outstanding of customer?
+What are the job ids corresponding to jobs with average salary above 8000?
+Return the color code and description for the product with the name 'chervil'.
+What are the ids of all male students who do not play football?
+What information do you have on colleges sorted by increasing enrollment numbers?
+Retrieve the list of all cities.
+What are the names of all employees who are not certified to fly Boeing 737-800s?
+Find the last names of all the teachers that teach GELL TAMI.
+What are the ids of all the employees who have destroyed documents?
+Count the number of countries.
+How many furniture components are there in total?
+What is the names of movies whose created year is after all movies directed by Steven Spielberg?
+How many customers in state of CA?
+What is the most used instrument?
+What is the city_code of the city that the most students live in?
+What is the name of the perpetrator with the biggest weight.
+Which 3 players won the most player awards? List their full name and id.
+What is the names of the physicians who prescribe medication Thesisin?
+From what date and to what date do the staff work on a project that has the most staff and has staff in a leader role?
+Find the names of stadiums that some Australian swimmers have been to.
+What are the names of rooms that have either king or queen bed?
+Return the maximum and minimum number of cities across all markets.
+Return the device carriers that do not have Android as their software platform.
+Select all the data from the products and each product's manufacturer.
+What is the name of the claim processing stage that most of the claims are on?
+What are the distinct grant amount for the grants where the documents were sent before '1986-08-26 20:49:27' and grant were ended after '1989-03-16 18:27:16'?
+For each staff id, what is the description of the role that is involved with the most number of projects?
+Select the average price of each manufacturer's products, showing only the manufacturer's code.
+What is the name of the medication used for the patient staying in room 111?
+What are the names of people in ascending order of weight?
+what are the order id and customer id of the oldest order?
+List the number of customers that did not have any payment history.
+How many buildings are there?
+What are the different stage positions for all musicians whose first name is "Solveig"?
+Find the names of the top 3 departments that provide the largest amount of courses?
+What is the name of the department with the most students minoring in it?
