@@ -188,7 +188,7 @@ Those scripts reproduce the experiment results reported in the paper:
 | BART-large | 86.7                | **87.8** | 85.2     | 87.1     | 86.0 | 88.5 | 86    | 78 | 0.48 |
 
 
-In the paper, we only report the best results we observed on the test set. From the practical perspective, you may estimate the best Snowball iteration number on unseen datasets based on the model performance on the last epoch of each Snowball iteration. For instance, the comparison between the results on dev and test split of Logic-to-Text is as follow:
+In the paper, we only report the best results we observed on the test set. From the practical perspective, you may estimate the best number of Snowball iteration on unseen datasets based on the model performance on the Dev set. For instance, the comparison between the results on Dev and Test split of Logic-to-Text is as follow:
 |          | Metrics    | BLEC |          |          |      |      |      | Human |    |      |
 |----------|------------|:----:|----------|----------|------|------|------|:-----:|----|------|
 |          | Snowball   | -    | 1        | 2        | 3    | 4    | 5    |   -   | 4  |   κ  |
